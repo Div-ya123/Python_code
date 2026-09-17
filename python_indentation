@@ -22,6 +22,6 @@ if num > 1:
 
 # If the number is less than 1, it's a also not prime number
 else:
-    print(num,"this is not prime number")            
+    print(num," is not prime number")            
 
 
